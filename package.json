@@ -1,0 +1,22 @@
+{
+  "name": "mongodb_hwk_w2d1",
+  "version": "1.0.0",
+  "description": "WEB502_HWK_Module3_W2_D1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lan-Jiang/WEB502_HWK_Module3_W2_D1.git"
+  },
+  "author": "Lan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lan-Jiang/WEB502_HWK_Module3_W2_D1/issues"
+  },
+  "homepage": "https://github.com/Lan-Jiang/WEB502_HWK_Module3_W2_D1#readme",
+  "dependencies": {
+    "mongodb": "^4.4.1"
+  }
+}
